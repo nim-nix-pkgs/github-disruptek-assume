@@ -409,7 +409,7 @@
   "heads": [
     {
       "name": "assume",
-      "version": "0.4.0",
+      "version": "0.6.0",
       "author": "disruptek",
       "desc": "assume makes an ass out of u and me",
       "license": "MIT",
