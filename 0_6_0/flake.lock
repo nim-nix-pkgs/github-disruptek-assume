@@ -325,10 +325,10 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "github-disruptek-balls": "github-disruptek-balls",
         "nixpkgs": "nixpkgs_2",
-        "src-assume-master": "src-assume-master"
+        "src-assume-0_6_0": "src-assume-0_6_0"
       }
     },
-    "src-assume-master": {
+    "src-assume-0_6_0": {
       "flake": false,
       "locked": {
         "lastModified": 1668015818,
@@ -340,7 +340,7 @@
       },
       "original": {
         "owner": "disruptek",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.6.0",
         "repo": "assume",
         "type": "github"
       }
